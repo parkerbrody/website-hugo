@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-07-01"
   date_end = ""
-  description = """Revision and style edits of accepted journal articles. Coordinating communication with authors throughout the publishing process."""
+  description = """Revision and style edits of journal articles. Coordinating communication with authors throughout the publishing process."""
 
 [[experience]]
   title = "Linguistic Consultant"
