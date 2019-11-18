@@ -11,6 +11,8 @@ weight = 45  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
+date_format = ""
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
@@ -19,7 +21,7 @@ subtitle = ""
   count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]

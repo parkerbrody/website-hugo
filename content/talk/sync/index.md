@@ -1,7 +1,7 @@
 ---
-title: Morphological exceptionality and pathways of change - Multiple exponence in Kiranti
-event: 93rd Annual Meeting of the Linguistic Society of America (LSA)
-event_url: https://www.linguisticsociety.org/event/lsa-2019-annual-meeting
+title: A computational phylogenetic account of the diachronic development of Pama-Nyungan verb conjugation classes
+event: SYNC 2019
+event_url: https://sites.google.com/nyu.edu/sync2019
 
 location:
 address:
@@ -11,12 +11,12 @@ address:
   postcode:
   country: United States
 
-summary: 93rd Annual Meeting of the Linguistic Society of America (LSA)
-abstract: "This paper presents comparative data from the Kiranti (Tibeto-Burman) languages as evidence for the development of multiple exponence from periphrastic verbs which feature(d) redundant agreement inflection on both main verb and auxiliary and the historical process of coalescence. Multiple exponence is uncommon typologically, and as such is often dismissed in theories of morphology that rely on a one-to-one correspondence between a segmentable piece of a word and the information it encodes (cf. word-and-paradigm theories). I propose the inclusion of well-attested language change processes and uncommon typological data as a desideratum for the construction of robust theories of inflectional morphology."
+summary: SYNC 2019
+abstract: "This paper presents the reconstruction of Pama-Nyungan (Australia) verb conjugation classes using computational phylogenetic methods. Languages from a genealogically and geographically comprehensive sample (n=120) are labeled according to relevant morphological characters, including the presence or absence of verb conjugation classes, number of conjugation classes, and how membership is determined. This project demonstrates the viability of morphological characters in modern stochastic computational approaches to historical linguistics, including tree inference and ancestral state reconstruction."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-01-04"
+date: "2019-12-07"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
