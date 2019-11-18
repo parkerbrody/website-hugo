@@ -3,7 +3,7 @@ title: Multiple Exponence in Kiranti
 summary: A diachronic account of Kiranti multiple agreement.
 tags:
 - Multiple Exponence
-date: "2019-11-16T00:00:00Z"
+date: "2018-11-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

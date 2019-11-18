@@ -16,7 +16,7 @@ publishDate: "2019-11-01"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Claire Bowern (ed.) *Oxford Handbook of Australian Languages*
+publication: (Forthcoming) In Claire Bowern (ed.) *Oxford Handbook of Australian Languages*
 publication_short:
 
 abstract: Survey of adjectival and adverbial modifier systems in the Indigenous languages of Australia.

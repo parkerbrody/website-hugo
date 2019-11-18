@@ -3,7 +3,7 @@ title: Pama-Nyungan verb classes
 summary: Computational phylogenetic reconstruction of Pama-Nyungan verb conjugation classes.
 tags:
 - Phylogenetics
-date: "2019-11-16T00:00:00Z"
+date: "2019-11-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
